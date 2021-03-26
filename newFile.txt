@@ -3,3 +3,4 @@ test text
 
 This is a new line text to modify this file.
 
+This is the second line of the file.
